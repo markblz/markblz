@@ -12,14 +12,6 @@ Reach me through my email: marcos.belezafilho@gmail.com
 <h3 align="center">Git Stats</h3>
 
 <div align="center">
-   
-<!-- Streak -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=markblz&theme=github-dark&hide_border=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=markblz&theme=github-light&hide_border=true">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=markblz&theme=github-light&hide_border=true">
-</picture>
-<br>
 
 <!-- Activity Graph -->
 <picture>
@@ -59,13 +51,6 @@ Reach me through my email: marcos.belezafilho@gmail.com
       </tr>
     </table>
   </div>
-
-  <!-- Overall Stats -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=markblz&hide_border=true&border_radius=15&show_icons=true&theme=github_dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=markblz&hide_border=true&border_radius=15&show_icons=true">
-    <img alt="Mark's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=markblz&hide_border=true&border_radius=15&show_icons=true">
-  </picture>
 
   <!-- Profile Details -->
   <picture>
