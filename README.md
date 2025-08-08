@@ -1,6 +1,6 @@
 ## About me
 I am currently pursuing a Bachelor's degree in Electrical Engineering at the University of
-São Paulo (USP). I've been going bald trying to DIY my life.
+São Paulo (USP). Also, I've been going bald trying to DIY my life, but love it.
 
 Reach me through my email: marcos.belezafilho@gmail.com
 
@@ -34,33 +34,43 @@ Reach me through my email: marcos.belezafilho@gmail.com
       <tr>
         <td>
           <!-- Top Languages -->
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markblz&hide=html&hide_border=true&layout=compact&langs_count=8&theme=github_dark#gh-dark-mode-only" alt="Top Languages" />
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=markblz&hide=html&hide_border=true&layout=compact&langs_count=8#gh-light-mode-only" alt="Top Languages" />
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=markblz&hide=html&hide_border=true&layout=compact&langs_count=8&theme=github_dark">
+            <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=markblz&hide=html&hide_border=true&layout=compact&langs_count=8">
+            <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=markblz&hide=html&hide_border=true&layout=compact&langs_count=8">
+          </picture>
         </td>
         <td>
           <!-- Repos Per Language -->
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=markblz&theme=github_dark&hide_border=true#gh-dark-mode-only" alt="Repos Per Language" />
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=markblz&theme=github&hide_border=true#gh-light-mode-only" alt="Repos Per Language" />
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=markblz&theme=github_dark&hide_border=true">
+            <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=markblz&theme=github&hide_border=true">
+            <img alt="Repos Per Language" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=markblz&theme=github&hide_border=true">
+          </picture>
         </td>
         <td>
           <!-- Most Commit Language -->
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=markblz&theme=github_dark&hide_border=true#gh-dark-mode-only" alt="Most Commit Language" />
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=markblz&theme=github&hide_border=true#gh-light-mode-only" alt="Most Commit Language" />
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=markblz&theme=github_dark&hide_border=true">
+            <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=markblz&theme=github&hide_border=true">
+            <img alt="Most Commit Language" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=markblz&theme=github&hide_border=true">
+          </picture>
         </td>
       </tr>
     </table>
   </div>
 
   <!-- Overall Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=markblz&hide_border=true&border_radius=15&show_icons=true&theme=github_dark#gh-dark-mode-only" alt="Mark's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api?username=markblz&hide_border=true&border_radius=15&show_icons=true#gh-light-mode-only" alt="Mark's GitHub stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=markblz&hide_border=true&border_radius=15&show_icons=true&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=markblz&hide_border=true&border_radius=15&show_icons=true">
+    <img alt="Mark's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=markblz&hide_border=true&border_radius=15&show_icons=true">
+  </picture>
 
   <!-- Profile Details -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markblz&theme=github_dark&hide_border=true#gh-dark-mode-only" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markblz&theme=github&hide_border=true#gh-light-mode-only" alt="Profile Details" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markblz&theme=github_dark&hide_border=true">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markblz&theme=github&hide_border=true">
+    <img alt="Profile Details" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markblz&theme=github&hide_border=true">
+  </picture>
 </div>
-
-<!-- Contribution Chart (native appears above README; this is an additional static chart) -->
-<a href="https://github.com/markblz">
-  <img src="https://ghchart.rshah.org/markblz" alt="markblz's GitHub Contribution Chart">
-</a>
