@@ -1,16 +1,33 @@
+## About me
+I am currently pursuing a Bachelor's degree in Electrical Engineering at the University of
+São Paulo (USP). I've been going bald trying to DIY my life.
+
+Reach me through my email: marcos.belezafilho@gmail.com
+
+<br>
+<br>
+
+<h3 align="center">My Stats</h3>
+
 <h3 align="center">Git Stats</h3>
 
 <div align="center">
+   
+<!-- Streak -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=markblz&theme=github-dark&hide_border=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=markblz&theme=github-light&hide_border=true">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=markblz&theme=github-light&hide_border=true">
+</picture>
+<br>
 
-  <!-- Streak -->
-  <img src="https://streak-stats.demolab.com/?user=markblz&theme=github-dark&hide_border=true#gh-dark-mode-only" alt="GitHub Streak" />
-  <img src="https://streak-stats.demolab.com/?user=markblz&theme=github-light&hide_border=true#gh-light-mode-only" alt="GitHub Streak" />
-  <br>
-
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=markblz&custom_title=Mark%27s%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&area=true&theme=react-dark#gh-dark-mode-only" alt="GitHub Activity Graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=markblz&custom_title=Mark%27s%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&area=true&theme=github-compact#gh-light-mode-only" alt="GitHub Activity Graph" />
-  <br>
+<!-- Activity Graph -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=markblz&custom_title=Mark%27s%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&area=true&theme=react-dark">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=markblz&custom_title=Mark%27s%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&area=true&theme=github-compact">
+  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=markblz&custom_title=Mark%27s%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&area=true&theme=github-compact">
+</picture>
+<br>
 
   <div align="center">
     <table>
@@ -41,26 +58,6 @@
   <!-- Profile Details -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markblz&theme=github_dark&hide_border=true#gh-dark-mode-only" alt="Profile Details" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=markblz&theme=github&hide_border=true#gh-light-mode-only" alt="Profile Details" />
-</div>
-
-<!-- Optional: Top Repositories (replace REPO_NAME with your repos) -->
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/markblz/REPO_NAME">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=markblz&repo=REPO_NAME&theme=github_dark&hide_border=true&border_radius=15#gh-dark-mode-only" />
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=markblz&repo=REPO_NAME&hide_border=true&border_radius=15#gh-light-mode-only" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/markblz/REPO_NAME">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=markblz&repo=REPO_NAME&theme=github_dark&hide_border=true&border_radius=15#gh-dark-mode-only" />
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=markblz&repo=REPO_NAME&hide_border=true&border_radius=15#gh-light-mode-only" />
-        </a>
-      </td>
-    </tr>
-  </table>
 </div>
 
 <!-- Contribution Chart (native appears above README; this is an additional static chart) -->
