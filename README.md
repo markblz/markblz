@@ -3,13 +3,10 @@ I am currently pursuing a Bachelor's degree in Electrical Engineering at the Uni
 São Paulo (USP). Also, I've been going bald trying to DIY my life, but love it.
 
 Reach me through my email: marcos.belezafilho@gmail.com
+<br>
 
-<br>
-<br>
 
 <h3 align="center">My Stats</h3>
-
-<h3 align="center">Git Stats</h3>
 
 <div align="center">
 
